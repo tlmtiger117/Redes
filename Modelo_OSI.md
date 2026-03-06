@@ -1,5 +1,5 @@
 # 06/03/26
-# Modelo Osi
+# Modelo OSI
 
 - O que é: É um framework(ferramenta conceitual nesse caso) utilizado para entender as camadas que um pacote faz até chegar no
           seu destino final:
