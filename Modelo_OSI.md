@@ -35,7 +35,7 @@
 
 - [Dica para memorizar] (de baixo para cima):
 
-   1°- Física(cabos,sinais) → 2°- Enlace(Ethernet/LAN) → 3°- Rede(IP SRC e DST) → 4°- Transporte(TCP/UDP) → 5°- Sessão(SYN-ACK) →
+   1°- Física(cabos,sinais) → 2°- Enlace(Ethernet/LAN) → 3°- Rede(IP SRC e DST) → 4°- Transporte(TCP/UDP) → 5°- Sessão(ACK) →
    6°- Apresentação(criptografia) → 7°- Aplicação(processamento) -> processo inverso para o user receber os dados.
 
 
