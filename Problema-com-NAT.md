@@ -16,7 +16,7 @@
       
 
 - 3° Reativar a rede:
-   - comandos: sudo ifdown eth0 && sudo ifup eth0 (Desativa e reativa a rede, pra adcionar a configuração)
+   - comandos: sudo ifdown eth0 && sudo ifup eth0 (Desativa e reativa sua interface, pra adcionar a configuração a ela)
       - Sempre olhe sua interface, ela pode ser diferente.
      
 
