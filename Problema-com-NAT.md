@@ -9,7 +9,7 @@
 - 2°Configure o arquivo de rede do seu host. No meu caso é esse aqui:
   
    - (KALI-LINUX)-Comando: sudo nano /etc/network/interfaces
-   - Configure a sua inetrfase(eth0,enp0s3...) com DHCP automático, Comando:
+   - Configure a sua ineterface(eth0,enp0s3...) com DHCP automático, Comando:
      
       - 1° auto eth0
       - 2° iface eth0 inet dhcp
@@ -17,6 +17,7 @@
 
 - 3° Reativar a rede:
    - comandos: sudo ifdown eth0 && sudo ifup eth0 (Desativa e reativa a rede, pra adcionar a configuração)
+      - Sempre olhe sua interface, ela pode ser diferente.
      
 
 - 4° Testar a conexão:
